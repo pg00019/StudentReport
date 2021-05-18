@@ -94,11 +94,11 @@
 
       echo "<table border='1'>
       <tr>          
-      <th class='heading'>ClassTest</th>
-      <th class='heading'>Assignment</th>
-      <th class='heading'>Labwork</th>
-      <th class='heading'>Viva</th>
-      <th class='heading'>Total Marks</th>
+      <th class='heading'>ClassTest(20)</th>
+      <th class='heading'>Assignment(15)</th>
+      <th class='heading'>Labwork(10)</th>
+      <th class='heading'>Viva(5)</th>
+      <th class='heading'>Total Marks(50)</th>
       <th class='heading'>Grade</th>
       <th class='heading'>Comments</th>
       </tr>";
